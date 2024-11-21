@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Harsh Gosaliya</h1>
-<h3 align="center">🤖AiMl🤖 Navigating: BCA Hons. with AI-ML Specialization | Passionate Coder | Enthused Developer | Problem Solver | Open Source Contributor | GSSOC-2024 | Hacktoberfest</h3>
+<h3 align="center">🤖"🚀 Innovating Through Code | 🌟 Tech Explorer | 🌐 Web Dev Enthusiast | 💡 Creative Problem Solver | 💻 Open Source Advocate" 🤖 </h3>
 <img align="right" alt="Coding" width="400" src="https://thedigitalxx.com/wp-content/uploads/2023/11/tdxx-blog-post-banner11-.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshpareshbhaigosalya&label=Profile%20views&color=0e75b6&style=flat" alt="harshpareshbhaigosalya" /> </p>
 
