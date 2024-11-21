@@ -1,4 +1,8 @@
-[![An image of @harshpareshbhaigosalya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshpareshbhaigosalya)](https://holopin.io/@harshpareshbhaigosalya)
+
+<a href="https://holopin.io/@harshpareshbhaigosalya">
+  <img src="https://deeplor.s3.us-west-2.amazonaws.com/upload/2024/11/21/c91bb1d08a1d463a85bc5ecd18b3d262.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241121T061854Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Credential=AKIAROYXHKZUSZONTWIG%2F20241121%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Signature=c5075f235d1d6fec8b6784864a388f8fecb0e21e59c35665ebec6853b18a04aa" alt="My Combined Badges" style="width: 100%;">
+</a>
+
 
 <h1 align="center">Hi 👋, I'm Harsh Gosaliya</h1>
 <h3 align="center">🤖AiMl🤖 Navigating: BCA Hons. with AI-ML Specialization | Passionate Coder | Enthused Developer | Problem Solver | Open Source Contributor | GSSOC-2024 | Hacktoberfest</h3>
